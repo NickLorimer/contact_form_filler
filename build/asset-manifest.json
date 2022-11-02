@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Repos/Table app/reactgrid-getting-started/build/static/css/main.073c9b0a.css",
+    "main.js": "/Repos/Table app/reactgrid-getting-started/build/static/js/main.1e79ee75.js",
+    "index.html": "/Repos/Table app/reactgrid-getting-started/build/index.html",
+    "main.073c9b0a.css.map": "/Repos/Table app/reactgrid-getting-started/build/static/css/main.073c9b0a.css.map",
+    "main.1e79ee75.js.map": "/Repos/Table app/reactgrid-getting-started/build/static/js/main.1e79ee75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e79ee75.js"
+  ]
+}
